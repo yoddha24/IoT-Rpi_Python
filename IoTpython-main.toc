@@ -1,2 +1,0 @@
-\beamer@sectionintoc {1}{Intro to IoT}{5}{0}{1}
-\beamer@endinputifotherversion {3.36pt}
